@@ -99,3 +99,20 @@ body {
     width: 365px;
     display: table-cell;
 }
+footer-img{
+  display: flex;
+    align-items:center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.footer-img img{
+    width: 10%;
+    padding-left: 3%;
+    padding-right: 3%;
+    filter: grayscale(100%);
+    opacity: 0.8;
+}
+.footer-hr{
+    width: 90%;
+}
