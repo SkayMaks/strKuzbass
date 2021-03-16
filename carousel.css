@@ -116,3 +116,9 @@ footer-img{
 .footer-hr{
     width: 90%;
 }
+.tooltiptext::after{
+    background: #222;
+}
+.tooltiptext::after{
+    background: #222;
+}
